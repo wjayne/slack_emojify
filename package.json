@@ -1,0 +1,22 @@
+{
+  "name": "slack_emojify",
+  "version": "1.0.0",
+  "description": "slack emoji bot",
+  "main": "botkit",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjayne/slack_emojify.git"
+  },
+  "author": "wjayne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjayne/slack_emojify/issues"
+  },
+  "homepage": "https://github.com/wjayne/slack_emojify#readme",
+  "dependencies": {
+    "botkit": "^0.2.2"
+  }
+}
